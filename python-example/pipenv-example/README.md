@@ -15,6 +15,7 @@ This example demonstrates how to build a Python Pipenv project with Artifactory,
 4. Make sure **wheel** and **setuptools** are installed. You can use the [Installing Packages Documentation](https://packaging.python.org/tutorials/installing-packages/).
 5. Make sure version 1.28.0 or above of [JFrog CLI](https://jfrog.com/getcli/) is installed.
 
+
 ### Validate the Setup
 In your terminal, validate that the following commands work.
 ```console
